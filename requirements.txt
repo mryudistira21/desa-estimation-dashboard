@@ -2,5 +2,11 @@ streamlit
 pandas
 numpy
 folium
-
 streamlit-folium
+geopandas
+shapely
+fiona
+pyproj
+rtree
+matplotlib
+plotly
